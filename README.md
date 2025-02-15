@@ -1,2 +1,0 @@
-# sou1
-projects
